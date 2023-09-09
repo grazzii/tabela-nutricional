@@ -1,0 +1,71 @@
+<table summary= "TABELA NUTRICIONAL">
+
+<caption>TABELA NUTRICIONAL</caption>
+
+<thead>
+<tr>
+<th colspan="4">INFORMAÇÃO NUTRICIONAL <br>
+PORÇÃO DE 200ML (1 COPO)</th> </br>
+</tr>
+
+<tr>
+<td colspan="2">QUANTIDADE POR PORÇÃO</td>
+<td> % VD (*) </td>
+</tr> 
+</thead>
+<tfoot>
+</foot>
+
+<tbody>
+
+<tr>
+<td> VALOR ENERGÉTICO </td> 
+<td> 85 KCAL= 361 KJ </td> 
+<td> 4 </td> </tr>
+</tr>
+
+
+<tr>
+<td> CARBOIDRATOS </td> 
+<td> 21g</td> 
+<td> 7</td> </tr>
+
+<td> AÇÚCARES </td> 
+<td> 21g </td> 
+<td> ** </td> </tr>
+
+<td> SÓDIO </td> 
+<td> 10mg </td> 
+<td> 0 </td> </tr>
+
+<tr>
+<th colspan="4"> NÃO CONTÉM QUANTIDADE SIGNIFICATIVA EM PROTEÍNAS, GORDURAS TOTAIS, GORDURAS SATURADAS, GORDURAS TRANS E FIBRA ALIMENTAR</th></tr>
+</tr>
+</tbody>
+</table>
+
+<p>(*) %VALORES DIÁRIOS COM BASE EM UMA DIETA DE 2000 KCAL OU 8400KJ. SEUS VALORES DIÁRIOS PODEM SER MAIORES OU MENORES DEPENDENDO DE SUAS NECESSIDADES ENERGÉTICAS.
+<br>
+(**) VD NÃO ESTABELECIDO.
+</br>
+</p>
+<style>
+
+table, td, th, tfoot {border:solid 1px #000; padding:5px;}
+
+th {background-color:#999;}
+
+caption {font-size:x-large;}
+
+colgroup {background:#F60;}
+
+.coluna1 {background:#F66;}
+
+.coluna2  {background:#F33;}
+
+.coluna3  {background:#F99;}
+
+</style>
+
+<a style="color:red;" href="https://www.coca-cola.com.br/"> Compre já a sua Coca-Cola </a>
+<img src="https://coca-colafemsa.com/wp-content/uploads/2019/11/2.png" width="30%" height="60%">
